@@ -29,7 +29,8 @@ alert('Desafio alura 03');
 // usando uma template string para incluir o vbalor do saldo na mensagem
 
 let saldoDisponivel = 2500;
-let nomeUsuario = 'Lucas';
+let nomeUsuario = prompt ('Para saber seu saldo, digite seu nome:');
 prompt ('Para saber seu saldo, digite seu nome:');
 alert(`olá ${nomeUsuario}, seu saldo é de R$ ${saldoDisponivel}`);
+
 
