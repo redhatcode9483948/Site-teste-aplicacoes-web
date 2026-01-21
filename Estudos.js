@@ -26,11 +26,12 @@ if (numero >= 0) {
 
 alert('Desafio alura 03');
 //crie uma mensagem que informa o usuário sobre o saldo da conta,
-// usando uma template string para incluir o vbalor do saldo na mensagem
+// usando uma template string para incluir o valor do saldo na mensagem
 
 let saldoDisponivel = 2500;
 let nomeUsuario = prompt ('Para saber seu saldo, digite seu nome:');
-prompt ('Para saber seu saldo, digite seu nome:');
+
 alert(`olá ${nomeUsuario}, seu saldo é de R$ ${saldoDisponivel}`);
+
 
 
