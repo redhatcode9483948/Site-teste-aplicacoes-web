@@ -31,4 +31,5 @@ alert('Desafio alura 03');
 let saldoDisponivel = 2500;
 let nomeUsuario = 'Lucas';
 prompt ('Para saber seu saldo, digite seu nome:');
-alert(`olá ${nomeUsuario},' + 'seu saldo é de R$ ${saldoDisponivel}`);
+alert(`olá ${nomeUsuario}, seu saldo é de R$ ${saldoDisponivel}`);
+
